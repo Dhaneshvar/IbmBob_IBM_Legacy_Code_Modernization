@@ -454,13 +454,5 @@ python -m cProfile -s cumulative run_api.py
 
 ---
 
-## ❓ Questions?
-
-- **Issues & Discussions**: [GitHub Discussions](https://github.com/yourusername/lm-modernizer/discussions)
-- **Email**: contributors@lm-modernizer.dev
-
-Thank you for contributing! ❤️
-
----
 
 **Last Updated**: September 2026
