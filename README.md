@@ -542,14 +542,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 ---
 
-## 📞 Support & Contact
-
-- **Issues & Bugs**: [GitHub Issues](https://github.com/yourusername/lm-modernizer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/lm-modernizer/discussions)
-- **Email**: contact@lm-modernizer.dev
-
----
-
 ## 🗺️ Roadmap
 
 ### v0.2 (Next)
@@ -572,6 +564,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 ---
 
-**Built with ❤️ for enterprise modernization.**
+**Built with ❤️ IBM Bob 2.0 Hackathon | For Enterprise modernization Framework.**
 
-© 2026 LM Modernizer Contributors
+© 2026 LLM Modernizer Contributors
